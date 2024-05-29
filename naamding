@@ -1,0 +1,4 @@
+def welcome_banner(name):
+    print(f"Welcome, {name}!")
+
+welcome_banner("daniel")
